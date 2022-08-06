@@ -1,3 +1,4 @@
+![MasterHead](https://miro.medium.com/max/1400/1*B5kQu0cWXk1VlpPk6OarUA.gif)
 <h1 align="center">Hi 👋, I'm Puneet kumar</h1>
 <h3 align="center">A passionate full-stack web developer based in Calgary,AB</h3>
 
