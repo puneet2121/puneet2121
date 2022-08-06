@@ -1,4 +1,4 @@
-![MasterHead](https://miro.medium.com/max/1400/1*B5kQu0cWXk1VlpPk6OarUA.gif)
+<img align="center" src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2019/12/a6b9b58d0cbee9e5b28b9c78b6b68f78.gif"  width="90%" height="400">
 <h1 align="center">Hi 👋, I'm Puneet kumar</h1>
 <h3 align="center">A passionate full-stack web developer based in Calgary,AB</h3>
 
