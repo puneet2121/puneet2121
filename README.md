@@ -1,4 +1,7 @@
-<img align="center" src="https://camo.githubusercontent.com/659a91ae49a4694e36f3f67a36b94a1a4830e26b720db094aa15e79c8c9ddece/68747470733a2f2f616d70726f6e2e65752f77702d636f6e74656e742f75706c6f6164732f323031392f30312f636f64652d646576656c6f7065722e676966" width="100%" height="450">
+
+<p align="center" width="100%">
+    <img width="38%" src="https://camo.githubusercontent.com/659a91ae49a4694e36f3f67a36b94a1a4830e26b720db094aa15e79c8c9ddece/68747470733a2f2f616d70726f6e2e65752f77702d636f6e74656e742f75706c6f6164732f323031392f30312f636f64652d646576656c6f7065722e676966">
+</p>
 <h1 align="center">Hi 👋, I'm Puneet kumar</h1>
 <h3 align="center">A passionate full-stack web developer based in Calgary,AB</h3>
 
