@@ -26,4 +26,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=puneet2121&" alt="puneet2121" /></p>
 
-![Visitor Count](https://profile-counter.glitch.me/{username}/count.svg)
+
