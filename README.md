@@ -25,3 +25,5 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=puneet2121&show_icons=true&locale=en&layout=compact" alt="puneet2121" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=puneet2121&" alt="puneet2121" /></p>
+
+![Visitor Count](https://profile-counter.glitch.me/{username}/count.svg)
