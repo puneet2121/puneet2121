@@ -5,9 +5,8 @@
 <h1 align="center">Hi 👋, I'm Puneet kumar</h1>
 <h3 align="center">A passionate full-stack web developer based in Calgary,AB</h3>
 
-- 🔭 I’m currently working on **Portfolio website**
 
-- 🌱 I’m currently learning **Sanity, Tailwind, Data Structure and Algorithm.**
+- 🌱 I’m currently learning **TypeScript, Data Structure and Algorithm.**
 
 - 📫 How to reach me **bedipuneet21@gmail.com**
 
